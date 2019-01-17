@@ -11,10 +11,13 @@ Recommendations welcome!
 ## Machine Reading Comprehension
 [FlowQA: Grasping Flow in History for Conversational Machine Comprehension](https://arxiv.org/abs/1810.06683)
 - Using RNN to grasp historical information in conversational question answering.
+
 [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593)
 - Generate bert embedding for reading comprehensing and question answering.
+
 [FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension](https://arxiv.org/abs/1711.07341)
 - Extend existing attention approaches from three perspectives.
+
 
 ## Attention Mechanism
 [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544)
