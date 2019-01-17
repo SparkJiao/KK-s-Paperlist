@@ -1,5 +1,6 @@
 # KK-s-Paperlist
-List papers for machine learning, reinforcement learning, NLP or something interesting
+List papers for machine learning, reinforcement learning, NLP or something interesting.
+Recommendations welcome!
 
 ## Attention Mechanism
 [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544)
