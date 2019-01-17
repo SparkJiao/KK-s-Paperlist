@@ -3,7 +3,7 @@ List papers for machine learning, reinforcement learning, NLP or something inter
 Recommendations welcome!
 
 ## Table of Contents
-- [Machine reading comprehension]()
+- [Machine reading comprehension](https://github.com/SparkJiao/KK-s-Paperlist/README.md#machine-reading-comprehension)
 - Machine translation
 - Interpretability of Machine Learning
 - Attention machanism
