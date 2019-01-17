@@ -6,7 +6,7 @@ Recommendations welcome!
 - [Machine reading comprehension](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/README.md#machine-reading-comprehension)
 - [Machine translation](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/README.md#machine-translation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/README.md#interpretability-of-machine-learning)
-- [Attention machanism](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/README.md#attention-machanism)
+- [Attention machanism](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/README.md#attention-mechanism)
 
 ## Machine Reading Comprehension
 [FlowQA: Grasping Flow in History for Conversational Machine Comprehension](https://arxiv.org/abs/1810.06683)
