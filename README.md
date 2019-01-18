@@ -7,6 +7,7 @@ Recommendations welcome!
 - [Machine translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
 - [Attention machanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
+- [Reinforcement learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 
 ## Machine Reading Comprehension
 [FlowQA: Grasping Flow in History for Conversational Machine Comprehension](https://arxiv.org/abs/1810.06683)
@@ -31,3 +32,6 @@ Recommendations welcome!
 
 ## Interpretability of Machine Learning
 [Interpretable machine learning: deﬁnitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
+
+## Reinforcement Learning
+[Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
