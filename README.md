@@ -19,6 +19,13 @@ Recommendations welcome!
 [FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension](https://arxiv.org/abs/1711.07341)
 - Extend existing attention approaches from three perspectives.
 
+[Densely Connected Attention Propagation for Reading Comprehension](https://arxiv.org/abs/1811.04210)
+- Propose DECAPROP (Densely Connected Attention Propagation), a novel architecture for reading comprehension.
+
+[S-Net: From Answer Extraction to Answer Generation for Machine Reading Comprehension](https://arxiv.org/abs/1706.04815)
+
+[QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension](https://arxiv.org/abs/1804.09541)
+
 
 ## Attention Mechanism
 [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544)
