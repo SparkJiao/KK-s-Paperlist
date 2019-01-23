@@ -38,6 +38,8 @@ Recommendations welcome!
 
 [Dynamically Context-Sensitive Time-Decay Attention for Dialogue Modeling](https://arxiv.org/abs/1809.01557)
 
+[How Time Matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues](https://www.csie.ntu.edu.tw/~yvchen/doc/NAACL18_TimeDecay.pdf)
+
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
 - Tap the potential strength of deep transition between consecutive hidden states and propose a novel deep transition RNN-based architecture for NMT
