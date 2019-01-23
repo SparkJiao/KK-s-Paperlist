@@ -8,6 +8,7 @@ Recommendations welcome!
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
 - [Attention machanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
 - [Reinforcement learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
+- [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
 
 ## Machine Reading Comprehension
 [FlowQA: Grasping Flow in History for Conversational Machine Comprehension](https://arxiv.org/abs/1810.06683)
@@ -25,6 +26,9 @@ Recommendations welcome!
 [S-Net: From Answer Extraction to Answer Generation for Machine Reading Comprehension](https://arxiv.org/abs/1706.04815)
 
 [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension](https://arxiv.org/abs/1804.09541)
+
+## Dialog System
+[An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
 
 
 ## Attention Mechanism
