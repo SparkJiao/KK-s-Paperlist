@@ -36,6 +36,8 @@ Recommendations welcome!
 
 [Modeling Localness for Self-Attention Networks](https://arxiv.org/abs/1810.10182)
 
+[Dynamically Context-Sensitive Time-Decay Attention for Dialogue Modeling](https://arxiv.org/abs/1809.01557)
+
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
 - Tap the potential strength of deep transition between consecutive hidden states and propose a novel deep transition RNN-based architecture for NMT
