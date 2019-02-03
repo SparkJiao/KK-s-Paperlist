@@ -3,12 +3,16 @@ List papers for machine learning, reinforcement learning, NLP or something inter
 Recommendations welcome!
 
 ## Table of Contents
+- [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine reading comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
 - [Machine translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
 - [Attention machanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
 - [Reinforcement learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
+
+## Natural Language Inference
+[DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
 
 ## Machine Reading Comprehension
 [FlowQA: Grasping Flow in History for Conversational Machine Comprehension](https://arxiv.org/abs/1810.06683)
