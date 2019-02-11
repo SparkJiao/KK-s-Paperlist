@@ -58,4 +58,5 @@ Recommendations welcome!
 
 ## Waiting List
 [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
+
 [Review Conversational Reading Comprehension](https://arxiv.org/abs/1902.00821)
