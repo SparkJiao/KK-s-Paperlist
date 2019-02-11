@@ -60,3 +60,5 @@ Recommendations welcome!
 [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
 
 [Review Conversational Reading Comprehension](https://arxiv.org/abs/1902.00821)
+
+[BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671)
