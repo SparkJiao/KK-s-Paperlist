@@ -16,6 +16,10 @@ Recommendations welcome!
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
 
 ## Machine Reading Comprehension
+[DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension](https://arxiv.org/abs/1902.00164)
+
+[Review Conversational Reading Comprehension](https://arxiv.org/abs/1902.00821)
+
 [FlowQA: Grasping Flow in History for Conversational Machine Comprehension](https://arxiv.org/abs/1810.06683)
 - Using RNN to grasp historical information in conversational question answering.
 
@@ -59,6 +63,5 @@ Recommendations welcome!
 ## Waiting List
 [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
 
-[Review Conversational Reading Comprehension](https://arxiv.org/abs/1902.00821)
-
 [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671)
+
