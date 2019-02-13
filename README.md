@@ -69,3 +69,5 @@ Recommendations welcome!
 ## Some interesting or useful blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
+[Jack Koch's Blog](https://jbkjr.com/year-archive/)
+
