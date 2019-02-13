@@ -66,6 +66,6 @@ Recommendations welcome!
 
 [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671)
 
-## Some interesting or usefull blogs
+## Some interesting or useful blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
