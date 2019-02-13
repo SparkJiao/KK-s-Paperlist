@@ -11,6 +11,7 @@ Recommendations welcome!
 - [Reinforcement learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
+- [Some interesting or useful blogs](https://github.com/SparkJiao/KK-s-Paperlist#some-interesting-or-useful-blogs)
 
 ## Natural Language Inference
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
@@ -64,4 +65,7 @@ Recommendations welcome!
 [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
 
 [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671)
+
+## Some interesting or usefull blogs
+[Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
