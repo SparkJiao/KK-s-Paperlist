@@ -4,14 +4,14 @@ Recommendations welcome!
 
 ## Table of Contents
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
-- [Machine reading comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
-- [Machine translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
+- [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
+- [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
-- [Attention machanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
-- [Reinforcement learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
+- [Attention Mechanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
+- [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
-- [Some interesting or useful blogs](https://github.com/SparkJiao/KK-s-Paperlist#some-interesting-or-useful-blogs)
+- [Some Interesting or Useful Blogs](https://github.com/SparkJiao/KK-s-Paperlist#some-interesting-or-useful-blogs)
 
 ## Natural Language Inference
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
@@ -51,6 +51,7 @@ Recommendations welcome!
 [How Time Matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues](https://www.csie.ntu.edu.tw/~yvchen/doc/NAACL18_TimeDecay.pdf)
 
 [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf)
+- Use summarized vectors of context or hidden states of context to add extra contextual information into the process of calculating the similarity of between each word in KEY and VALUE.
 
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
@@ -68,7 +69,7 @@ Recommendations welcome!
 
 [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671)
 
-## Some interesting or useful blogs
+## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
 [Jack Koch's Blog](https://jbkjr.com/year-archive/)
