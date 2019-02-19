@@ -50,6 +50,8 @@ Recommendations welcome!
 
 [How Time Matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues](https://www.csie.ntu.edu.tw/~yvchen/doc/NAACL18_TimeDecay.pdf)
 
+[Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf)
+
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
 - Tap the potential strength of deep transition between consecutive hidden states and propose a novel deep transition RNN-based architecture for NMT
