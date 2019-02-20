@@ -53,6 +53,8 @@ Recommendations welcome!
 [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf)
 - Use summarized vectors of context or hidden states of context to add extra contextual information into the process of calculating the similarity of between each word in KEY and VALUE.
 
+[Document Modeling with External Attention for Sentence Extraction](http://aclweb.org/anthology/P18-1188)
+
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
 - Tap the potential strength of deep transition between consecutive hidden states and propose a novel deep transition RNN-based architecture for NMT
@@ -74,3 +76,4 @@ Recommendations welcome!
 
 [Jack Koch's Blog](https://jbkjr.com/year-archive/)
 
+[Attention mechanism paper from another repo](https://github.com/yuquanle/Attention-Mechanisms-paper/blob/master/Attention-mechanisms-paper.md)
