@@ -10,6 +10,8 @@ Recommendations welcome!
 - [Attention Mechanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
 - [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
+- [Graph Neural Network](https://github.com/SparkJiao/KK-s-Paperlist#graph-neural-network)
+- [Theory](https://github.com/SparkJiao/KK-s-Paperlist#theory)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
 - [Some Interesting or Useful Blogs](https://github.com/SparkJiao/KK-s-Paperlist#some-interesting-or-useful-blogs)
 
@@ -68,6 +70,9 @@ Recommendations welcome!
 
 ## Graph Neural Network
 [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153)
+
+## Theory
+[On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
 [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
