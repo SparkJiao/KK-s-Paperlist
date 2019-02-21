@@ -66,6 +66,9 @@ Recommendations welcome!
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
 
+## Graph Neural Network
+[Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153)
+
 ## Waiting List
 [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
 
