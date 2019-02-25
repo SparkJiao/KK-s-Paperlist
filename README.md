@@ -39,6 +39,8 @@ Recommendations welcome!
 
 [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension](https://arxiv.org/abs/1804.09541)
 
+[Reinforced Mnemonic Reader for Machine Reading Comprehension](https://arxiv.org/pdf/1705.02798.pdf)
+
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
 
