@@ -41,6 +41,8 @@ Recommendations welcome!
 
 [Reinforced Mnemonic Reader for Machine Reading Comprehension](https://arxiv.org/pdf/1705.02798.pdf)
 
+[Multihop Attention Networks for Question Answer Matching](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/Multihop%20Attention%20Networks%20for%20Question%20Answer%20Matching.pdf)
+
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
 
