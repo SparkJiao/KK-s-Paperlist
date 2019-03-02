@@ -89,3 +89,5 @@ Recommendations welcome!
 [Jack Koch's Blog](https://jbkjr.com/year-archive/)
 
 [Attention mechanism paper from another repo](https://github.com/yuquanle/Attention-Mechanisms-paper/blob/master/Attention-mechanisms-paper.md)
+
+[NAACL 2019 Accepted Papers](https://naacl2019.org/program/accepted/)
