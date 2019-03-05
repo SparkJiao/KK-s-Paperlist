@@ -43,6 +43,9 @@ Recommendations welcome!
 
 [Multihop Attention Networks for Question Answer Matching](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/Multihop%20Attention%20Networks%20for%20Question%20Answer%20Matching.pdf)
 
+[DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://arxiv.org/abs/1903.00161)
+
+
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
 
