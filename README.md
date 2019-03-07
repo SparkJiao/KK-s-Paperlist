@@ -45,6 +45,8 @@ Recommendations welcome!
 
 [DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://arxiv.org/abs/1903.00161)
 
+[Multi-Matching Network for Multiple Choice Reading Comprehension](http://xplan-lab.org/Paper_PDF/AAAI-19.pdf)
+
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
