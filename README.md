@@ -47,6 +47,8 @@ Recommendations welcome!
 
 [Multi-Matching Network for Multiple Choice Reading Comprehension](http://xplan-lab.org/Paper_PDF/AAAI-19.pdf)
 
+[Option Comparison Network for Multiple-choice Reading Comprehension](https://arxiv.org/abs/1903.03033)
+
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
