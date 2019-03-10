@@ -49,6 +49,10 @@ Recommendations welcome!
 
 [Option Comparison Network for Multiple-choice Reading Comprehension](https://arxiv.org/abs/1903.03033)
 
+[Dual Co-Matching Network for Multi-choice Reading Comprehension](https://arxiv.org/abs/1901.09381)
+
+[Hierarchical Attention Flow for
+Multiple-Choice Reading Comprehension](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177)
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
@@ -67,6 +71,7 @@ Recommendations welcome!
 - Use summarized vectors of context or hidden states of context to add extra contextual information into the process of calculating the similarity of between each word in KEY and VALUE.
 
 [Document Modeling with External Attention for Sentence Extraction](http://aclweb.org/anthology/P18-1188)
+
 
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
