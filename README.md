@@ -51,6 +51,8 @@ Recommendations or contributions are all welcome!
 
 [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension](https://arxiv.org/abs/1804.09541)
 
+[U-Net: Machine Reading Comprehension with Unanswerable Questions](https://arxiv.org/abs/1810.06638)
+
 [Reinforced Mnemonic Reader for Machine Reading Comprehension](https://arxiv.org/pdf/1705.02798.pdf)
 
 [Multihop Attention Networks for Question Answer Matching](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/Multihop%20Attention%20Networks%20for%20Question%20Answer%20Matching.pdf)
