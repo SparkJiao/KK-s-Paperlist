@@ -3,6 +3,8 @@ List papers for machine learning, reinforcement learning, NLP or something inter
 Recommendations welcome!
 
 ## Table of Contents
+- [Bentchmark or Datasets](https://github.com/SparkJiao/KK-s-Paperlist#benchmark-or-datasets)
+- [Visual Question Answering](https://github.com/SparkJiao/KK-s-Paperlist#visual-question-answering)
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
@@ -14,6 +16,16 @@ Recommendations welcome!
 - [Theory](https://github.com/SparkJiao/KK-s-Paperlist#theory)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
 - [Some Interesting or Useful Blogs](https://github.com/SparkJiao/KK-s-Paperlist#some-interesting-or-useful-blogs)
+
+## Benchmark or Datasets
+[CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
+
+[DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension](https://arxiv.org/abs/1902.00164)
+
+[DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://arxiv.org/abs/1903.00161)
+
+## Visual Question Answering
+[CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
 ## Natural Language Inference
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
@@ -54,8 +66,11 @@ Recommendations welcome!
 [Hierarchical Attention Flow for
 Multiple-Choice Reading Comprehension](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177)
 
+
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
+
+[The Second Conversational Intelligence Challenge (ConvAI2)](https://arxiv.org/pdf/1902.00098.pdf)
 
 
 ## Attention Mechanism
