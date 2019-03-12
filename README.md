@@ -65,6 +65,8 @@ Recommendations or contributions are all welcome!
 
 [Reinforced Mnemonic Reader for Machine Reading Comprehension](https://arxiv.org/pdf/1705.02798.pdf)
 
+[Read + Verify: Machine Reading Comprehension with Unanswerable Questions](https://arxiv.org/pdf/1808.05759.pdf)
+
 [Multihop Attention Networks for Question Answer Matching](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/Multihop%20Attention%20Networks%20for%20Question%20Answer%20Matching.pdf)
 
 [DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://arxiv.org/abs/1903.00161)
