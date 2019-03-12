@@ -1,6 +1,6 @@
 # KK's Paperlist
-List papers for machine learning, reinforcement learning, NLP or something interesting.
-Recommendations welcome!
+List papers for machine learning, deep learning, reinforcement learning, NLP or something interesting.  
+Recommendations or contributions are all welcome!
 
 ## Table of Contents
 - [Bentchmark or Datasets](https://github.com/SparkJiao/KK-s-Paperlist#benchmark-or-datasets)
