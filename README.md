@@ -27,6 +27,16 @@ Recommendations or contributions are all welcome!
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
+[Visual Dialog](https://arxiv.org/abs/1611.08669)
+- Late Fusion
+- Hierarchical Recurrent Encoder
+- Memory Network
+- [Github is here.](https://github.com/batra-mlp-lab/visdial)  
+
+[Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://github.com/ronghanghu/n2nmn)  
+
+[Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://github.com/facebookresearch/corefnmn)
+
 ## Natural Language Inference
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
 
