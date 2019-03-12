@@ -75,14 +75,15 @@ Recommendations or contributions are all welcome!
 
 [Dual Co-Matching Network for Multi-choice Reading Comprehension](https://arxiv.org/abs/1901.09381)
 
-[Hierarchical Attention Flow for
-Multiple-Choice Reading Comprehension](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177)
+[Hierarchical Attention Flow for Multiple-Choice Reading Comprehension](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177)
 
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
 
 [The Second Conversational Intelligence Challenge (ConvAI2)](https://arxiv.org/pdf/1902.00098.pdf)
+
+[A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf)
 
 
 ## Attention Mechanism
