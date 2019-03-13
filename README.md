@@ -114,6 +114,7 @@ Recommendations or contributions are all welcome!
 
 ## Multi-Task Learning
 [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf)
+- Better performance than BERT on natural language understanding tasks.
 
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
