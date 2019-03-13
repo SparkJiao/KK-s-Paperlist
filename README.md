@@ -9,6 +9,7 @@ Recommendations or contributions are all welcome!
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
+- [Multi-Task Learning](https://github.com/SparkJiao/KK-s-Paperlist#multi-task-learning)
 - [Attention Mechanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
 - [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
@@ -110,6 +111,9 @@ Recommendations or contributions are all welcome!
 
 ## Interpretability of Machine Learning
 [Interpretable machine learning: deﬁnitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
+
+## Multi-Task Learning
+[Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf)
 
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
