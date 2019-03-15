@@ -116,6 +116,8 @@ Recommendations or contributions are all welcome!
 [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf)
 - Better performance than BERT on natural language understanding tasks.
 
+[Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
+
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
 
@@ -126,9 +128,9 @@ Recommendations or contributions are all welcome!
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
-[Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
-
 [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671)
+
+[Attention, please! A Critical Review of Neural Attention Models in Natural Language Processing](https://www.semanticscholar.org/paper/Attention%2C-please!-A-Critical-Review-of-Neural-in-Galassi-Lippi/9a7def005efb5b4984886c8a07ec4d80152602ab)
 
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
