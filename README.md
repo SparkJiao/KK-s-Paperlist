@@ -135,6 +135,8 @@ Recommendations or contributions are all welcome!
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
+[To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/pdf/1903.05987.pdf)
+
 [Jack Koch's Blog](https://jbkjr.com/year-archive/)
 
 [Attention mechanism paper from another repo](https://github.com/yuquanle/Attention-Mechanisms-paper/blob/master/Attention-mechanisms-paper.md)
