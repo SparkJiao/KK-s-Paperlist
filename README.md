@@ -150,3 +150,5 @@ Recommendations or contributions are all welcome!
 [NAACL 2019 Accepted Papers](https://naacl2019.org/program/accepted/)
 
 [StateOfTheArt.ai](https://www.stateoftheart.ai/)
+
+### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#table-of-contents)
