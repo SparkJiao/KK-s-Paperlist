@@ -123,6 +123,8 @@ Recommendations or contributions are all welcome!
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
 
+[Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data](https://arxiv.org/abs/1903.06164)
+
 ## Graph Neural Network
 [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153)
 
