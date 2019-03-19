@@ -136,6 +136,8 @@ Recommendations or contributions are all welcome!
 
 [Attention, please! A Critical Review of Neural Attention Models in Natural Language Processing](https://www.semanticscholar.org/paper/Attention%2C-please!-A-Critical-Review-of-Neural-in-Galassi-Lippi/9a7def005efb5b4984886c8a07ec4d80152602ab)
 
+[Fast LSTMs in PyTorch](https://lernapparat.de/fast-lstm-pytorch/)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
