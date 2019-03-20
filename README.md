@@ -82,6 +82,8 @@ Recommendations or contributions are all welcome!
 
 [Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases](https://arxiv.org/pdf/1903.02188.pdf)
 
+[SQuAD-MARS](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80013584)
+
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
