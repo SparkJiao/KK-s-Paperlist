@@ -92,6 +92,8 @@ Recommendations or contributions are all welcome!
 
 [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf)
 
+[Memory-augmented Dialogue Management for Task-oriented Dialogue Systems](https://arxiv.org/abs/1805.00150)
+
 
 ## Attention Mechanism
 [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544)
