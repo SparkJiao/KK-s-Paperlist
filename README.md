@@ -157,4 +157,6 @@ Recommendations or contributions are all welcome!
 
 [StateOfTheArt.ai](https://www.stateoftheart.ai/)
 
+[Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+
 ### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#table-of-contents)
