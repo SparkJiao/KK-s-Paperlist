@@ -84,6 +84,8 @@ Recommendations or contributions are all welcome!
 
 [SQuAD-MARS](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80013584)
 
+[Coarse-to-Fine Question Answering for Long Documents](https://aclweb.org/anthology/P17-1020)
+
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
