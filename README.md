@@ -159,4 +159,7 @@ Recommendations or contributions are all welcome!
 
 [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
 
+[INTERSPEECH 2017系列 | 语音识别之后处理技术](https://yq.aliyun.com/articles/332445/)
+
+
 ### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#table-of-contents)
