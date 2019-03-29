@@ -91,6 +91,8 @@ Recommendations or contributions are all welcome!
 
 [Coarse-to-Fine Question Answering for Long Documents](https://aclweb.org/anthology/P17-1020)
 
+[Convolutional Spatial Attention Model for Reading Comprehension with Multiple-Choice Questions](https://arxiv.org/pdf/1811.08610.pdf)
+
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
