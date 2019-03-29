@@ -4,6 +4,7 @@ Recommendations or contributions are all welcome!
 
 ## Table of Contents
 - [Bentchmark or Datasets](https://github.com/SparkJiao/KK-s-Paperlist#benchmark-or-datasets)
+- [Language Models](https://github.com/SparkJiao/KK-s-Paperlist#language-models)
 - [Visual Question Answering](https://github.com/SparkJiao/KK-s-Paperlist#visual-question-answering)
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
@@ -24,6 +25,10 @@ Recommendations or contributions are all welcome!
 [DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension](https://arxiv.org/abs/1902.00164)
 
 [DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://arxiv.org/abs/1903.00161)
+
+## Language Models
+
+[Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
