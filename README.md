@@ -15,6 +15,7 @@ Recommendations or contributions are all welcome!
 - [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
 - [Graph Neural Network](https://github.com/SparkJiao/KK-s-Paperlist#graph-neural-network)
+- [GAN](https://github.com/SparkJiao/KK-s-Paperlist#gan)
 - [Theory](https://github.com/SparkJiao/KK-s-Paperlist#theory)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
 - [Some Interesting or Useful Blogs](https://github.com/SparkJiao/KK-s-Paperlist#some-interesting-or-useful-blogs)
