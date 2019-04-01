@@ -141,6 +141,12 @@ Recommendations or contributions are all welcome!
 ## Graph Neural Network
 [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153)
 
+## GAN
+
+[Adversarial Training Methods for Semi-Supervised Text Classification](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/ADVERSARIAL%20TRAINING%20METHODS%20FOR%20SEMI-SUPERVISED%20TEXT%20CLASSIFICATION.pdf)
+
+[Adversarial Examples for Natural Language Classification Problems](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/Adversarial%20Examples%20for%20Natural%20Language%20Classification%20Problems.pdf)
+
 ## Theory
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
