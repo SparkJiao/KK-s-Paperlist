@@ -175,5 +175,6 @@ Recommendations or contributions are all welcome!
 
 [INTERSPEECH 2017系列 | 语音识别之后处理技术](https://yq.aliyun.com/articles/332445/)
 
+[Yejin Choi - Language and X ∈ {vision, knowledge, world, mind, society...}](https://homes.cs.washington.edu/~yejin/)
 
 ### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#table-of-contents)
