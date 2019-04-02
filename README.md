@@ -49,6 +49,8 @@ Recommendations or contributions are all welcome!
 
 [Neural Natural Language Inference Models Enhanced with External Knowledge](https://aclweb.org/anthology/P18-1224)
 
+[Knowledge Base Relation Detection via Multi-View Matching](https://arxiv.org/pdf/1803.00612.pdf)
+
 ## Machine Reading Comprehension
 [DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension](https://arxiv.org/abs/1902.00164)
 
