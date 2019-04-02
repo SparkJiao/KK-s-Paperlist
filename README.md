@@ -158,6 +158,8 @@ Recommendations or contributions are all welcome!
 
 [Fast LSTMs in PyTorch](https://lernapparat.de/fast-lstm-pytorch/)
 
+[Random Language Model](https://arxiv.org/abs/1809.01201v2)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
