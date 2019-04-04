@@ -8,6 +8,7 @@ Recommendations or contributions are all welcome!
 - [Visual Question Answering](https://github.com/SparkJiao/KK-s-Paperlist#visual-question-answering)
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
+- [Commonsense Reasoning](https://github.com/SparkJiao/KK-s-Paperlist#commonsense-reasoning)
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
 - [Multi-Task Learning](https://github.com/SparkJiao/KK-s-Paperlist#multi-task-learning)
@@ -98,6 +99,9 @@ Recommendations or contributions are all welcome!
 
 [Convolutional Spatial Attention Model for Reading Comprehension with Multiple-Choice Questions](https://arxiv.org/pdf/1811.08610.pdf)
 
+## Commonsense Reasoning
+
+[Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
