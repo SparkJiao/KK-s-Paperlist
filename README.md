@@ -1,5 +1,5 @@
 # KK's Paperlist
-A list of papers for machine learning, deep learning, reinforcement learning, NLP or something interesting.  
+A list of papers for machine learning, deep learning, reinforcement learning, NLP and something interesting.  
 Recommendations or contributions are all welcome!
 
 ## Table of Contents
@@ -187,4 +187,4 @@ Recommendations or contributions are all welcome!
 
 [Yejin Choi - Language and X ∈ {vision, knowledge, world, mind, society...}](https://homes.cs.washington.edu/~yejin/)
 
-### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#table-of-contents)
+### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#kks-paperlist)
