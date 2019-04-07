@@ -28,6 +28,8 @@ Recommendations or contributions are all welcome!
 
 [DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://arxiv.org/abs/1903.00161)
 
+[A dataset for resolving referring expressions in spoken dialogue via contextual query rewrites (CQR)](https://arxiv.org/pdf/1903.11783.pdf)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
