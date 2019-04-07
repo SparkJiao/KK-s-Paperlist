@@ -34,6 +34,8 @@ Recommendations or contributions are all welcome!
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 
+[Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136v1.pdf)
+
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
