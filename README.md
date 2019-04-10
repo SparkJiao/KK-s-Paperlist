@@ -140,6 +140,8 @@ Recommendations or contributions are all welcome!
 ## Interpretability of Machine Learning
 [Interpretable machine learning: deﬁnitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
 
+[Frustratingly Poor Performance of Reading Comprehension Models on Non-adversarial Examples](https://arxiv.org/pdf/1904.02665v1.pdf)
+
 ## Multi-Task Learning
 [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf)
 - Better performance than BERT on natural language understanding tasks.
