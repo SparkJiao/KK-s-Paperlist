@@ -174,6 +174,10 @@ Recommendations or contributions are all welcome!
 
 [Random Language Model](https://arxiv.org/abs/1809.01201v2)
 
+[Gating Mechanisms for Combining Character and Word-level Word Representations: An Empirical Study](https://arxiv.org/pdf/1904.05584.pdf)
+
+[Convolutional Self-Attention Networks](https://arxiv.org/pdf/1904.03107.pdf)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
