@@ -182,6 +182,8 @@ Recommendations or contributions are all welcome!
 
 [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531)
 
+[Relational Graph Attention Networks](https://arxiv.org/abs/1904.05811)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
