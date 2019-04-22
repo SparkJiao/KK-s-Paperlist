@@ -178,6 +178,10 @@ Recommendations or contributions are all welcome!
 
 [Convolutional Self-Attention Networks](https://arxiv.org/pdf/1904.03107.pdf)
 
+[An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
+
+[Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
