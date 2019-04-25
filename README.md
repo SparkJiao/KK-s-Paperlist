@@ -184,6 +184,24 @@ Recommendations or contributions are all welcome!
 
 [Relational Graph Attention Networks](https://arxiv.org/abs/1904.05811)
 
+[Dry, Focus, and Transcribe: End-to-End Integration of Dereverberation, Beamforming, and ASR](https://arxiv.org/abs/1904.09049v2)
+
+[SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728v1#)
+
+[Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482v1)
+
+[Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System](https://arxiv.org/abs/1904.09636v1)
+
+[Dynamic Past and Future for Neural Machine Translation](https://arxiv.org/abs/1904.09646v1)
+
+[Probing Prior Knowledge Needed in Challenging Chinese Machine Reading Comprehension](https://arxiv.org/abs/1904.09679v1)
+
+[I Know What You Want: Semantic Learning for Text Comprehension](https://arxiv.org/abs/1809.02794v2)
+
+[Gradient-based Inference for Networks with Output Constraints](https://arxiv.org/abs/1707.08608v3)
+
+[Unifying Question Answering and Text Classification via Span Extraction](https://arxiv.org/abs/1904.09286v1)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
