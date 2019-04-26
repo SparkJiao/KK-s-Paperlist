@@ -30,11 +30,15 @@ Recommendations or contributions are all welcome!
 
 [A dataset for resolving referring expressions in spoken dialogue via contextual query rewrites (CQR)](https://arxiv.org/pdf/1903.11783.pdf)
 
+[SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728v1#)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 
 [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136v1.pdf)
+
+[Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482v1)
 
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
@@ -131,6 +135,8 @@ Recommendations or contributions are all welcome!
 
 [Document Modeling with External Attention for Sentence Extraction](http://aclweb.org/anthology/P18-1188)
 
+[Convolutional Self-Attention Networks](https://arxiv.org/pdf/1904.03107.pdf)
+
 
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
@@ -176,8 +182,6 @@ Recommendations or contributions are all welcome!
 
 [Gating Mechanisms for Combining Character and Word-level Word Representations: An Empirical Study](https://arxiv.org/pdf/1904.05584.pdf)
 
-[Convolutional Self-Attention Networks](https://arxiv.org/pdf/1904.03107.pdf)
-
 [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
 
 [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531)
@@ -185,10 +189,6 @@ Recommendations or contributions are all welcome!
 [Relational Graph Attention Networks](https://arxiv.org/abs/1904.05811)
 
 [Dry, Focus, and Transcribe: End-to-End Integration of Dereverberation, Beamforming, and ASR](https://arxiv.org/abs/1904.09049v2)
-
-[SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728v1#)
-
-[Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482v1)
 
 [Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System](https://arxiv.org/abs/1904.09636v1)
 
