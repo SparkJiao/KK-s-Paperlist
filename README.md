@@ -206,6 +206,8 @@ Recommendations or contributions are all welcome!
 
 [The Use of Unlabeled Data versus Labeled Data for Stopping Active Learning for Text Classification](https://arxiv.org/abs/1901.09126v2)
 
+[Efficient and Robust Question Answering from Minimal Context over Documents](https://aclweb.org/anthology/P18-1160)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
