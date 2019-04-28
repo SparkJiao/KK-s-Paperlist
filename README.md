@@ -204,6 +204,8 @@ Recommendations or contributions are all welcome!
 
 [Modality Attention for End-to-End Audio-visual Speech Recognition](https://arxiv.org/abs/1811.05250v2)
 
+[The Use of Unlabeled Data versus Labeled Data for Stopping Active Learning for Text Classification](https://arxiv.org/abs/1901.09126v2)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
