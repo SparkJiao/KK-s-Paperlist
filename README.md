@@ -202,6 +202,8 @@ Recommendations or contributions are all welcome!
 
 [Unifying Question Answering and Text Classification via Span Extraction](https://arxiv.org/abs/1904.09286v1)
 
+[Modality Attention for End-to-End Audio-visual Speech Recognition](https://arxiv.org/abs/1811.05250v2)
+
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
