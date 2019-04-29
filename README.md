@@ -164,6 +164,8 @@ Recommendations or contributions are all welcome!
 ## Graph Neural Network
 [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153)
 
+[Embedding Logical Queries on Knowledge Graphs](https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)
+
 ## GAN
 
 [Adversarial Training Methods for Semi-Supervised Text Classification](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/ADVERSARIAL%20TRAINING%20METHODS%20FOR%20SEMI-SUPERVISED%20TEXT%20CLASSIFICATION.pdf)
