@@ -229,4 +229,6 @@ Recommendations or contributions are all welcome!
 
 [Yejin Choi - Language and X ∈ {vision, knowledge, world, mind, society...}](https://homes.cs.washington.edu/~yejin/)
 
+[Better Heatmaps and Correlation Matrix Plots in Python](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec)
+
 ### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#kks-paperlist)
