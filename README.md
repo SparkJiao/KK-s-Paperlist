@@ -16,6 +16,7 @@ Recommendations or contributions are all welcome!
 - [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
 - [Graph Neural Network](https://github.com/SparkJiao/KK-s-Paperlist#graph-neural-network)
+- [Self Training](https://github.com/SparkJiao/KK-s-Paperlist#self-training)
 - [GAN](https://github.com/SparkJiao/KK-s-Paperlist#gan)
 - [Theory](https://github.com/SparkJiao/KK-s-Paperlist#theory)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
@@ -165,6 +166,20 @@ Recommendations or contributions are all welcome!
 [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153)
 
 [Embedding Logical Queries on Knowledge Graphs](https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)
+
+## Self Training
+
+[Improve Diverse Text Generation by Self Labeling Conditional Variational Auto Encoder](https://arxiv.org/abs/1903.10842v1)
+
+[Neural Self Talk: Image Understanding via Continuous Questioning and Answering](https://arxiv.org/abs/1512.03460v1)
+
+[Dual Supervised Learning for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.06196v1)
+
+[Structured Minimally Supervised Learning for Neural Relation Extraction](https://arxiv.org/abs/1904.00118v4)
+
+[A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification](https://arxiv.org/abs/1904.05055v1)
+
+[Effectiveness of Self Normalizing Neural Networks for Text Classification](https://arxiv.org/abs/1905.01338v1)
 
 ## GAN
 
