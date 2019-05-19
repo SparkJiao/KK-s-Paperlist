@@ -17,6 +17,7 @@ Recommendations or contributions are all welcome!
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
 - [Graph Neural Network](https://github.com/SparkJiao/KK-s-Paperlist#graph-neural-network)
 - [Self Training](https://github.com/SparkJiao/KK-s-Paperlist#self-training)
+- [Semi-Supervised Learning](https://github.com/SparkJiao/KK-s-Paperlist#semi-supervised-learning)
 - [GAN](https://github.com/SparkJiao/KK-s-Paperlist#gan)
 - [Theory](https://github.com/SparkJiao/KK-s-Paperlist#theory)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
@@ -40,6 +41,8 @@ Recommendations or contributions are all welcome!
 [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136v1.pdf)
 
 [Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482v1)
+
+[ERNIE: Enhanced Language Representation with Informative Entities](https://github.com/thunlp/ERNIE)
 
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
@@ -180,6 +183,14 @@ Recommendations or contributions are all welcome!
 [A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification](https://arxiv.org/abs/1904.05055v1)
 
 [Effectiveness of Self Normalizing Neural Networks for Text Classification](https://arxiv.org/abs/1905.01338v1)
+
+## Semi-Supervised Learning
+
+[Tri-Training: Exploiting Unlabeled Data Using Three Classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512038)
+
+[Tri-net for Semi-Supervised Deep Learning](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ijcai18trinet.pdf)
+
+[Semi-Supervised Learning with Ladder Networks](https://arxiv.org/pdf/1507.02672.pdf)
 
 ## GAN
 
