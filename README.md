@@ -192,6 +192,8 @@ Recommendations or contributions are all welcome!
 
 [Semi-Supervised Learning with Ladder Networks](https://arxiv.org/pdf/1507.02672.pdf)
 
+[Zoho at SemEval-2019 Task 9: Semi-supervised Domain Adaptation using Tri-training for Suggestion Mining](https://arxiv.org/pdf/1902.10623v2.pdf)
+
 ## GAN
 
 [Adversarial Training Methods for Semi-Supervised Text Classification](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/ADVERSARIAL%20TRAINING%20METHODS%20FOR%20SEMI-SUPERVISED%20TEXT%20CLASSIFICATION.pdf)
