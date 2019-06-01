@@ -111,6 +111,8 @@ Recommendations or contributions are all welcome!
 
 [Convolutional Spatial Attention Model for Reading Comprehension with Multiple-Choice Questions](https://arxiv.org/pdf/1811.08610.pdf)
 
+[A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension](https://arxiv.org/abs/1905.12848)
+
 ## Commonsense Reasoning
 
 [Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
