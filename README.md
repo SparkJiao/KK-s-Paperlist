@@ -269,4 +269,6 @@ Recommendations or contributions are all welcome!
 [ICLR 2019: Overcoming limited data
 Summaries of papers that address learning from few examples](https://towardsdatascience.com/iclr-2019-overcoming-limited-data-382cd19db6d2)
 
+[用Bertviz可视化Position Embedding](https://zhuanlan.zhihu.com/p/58787695)
+
 ### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#kks-paperlist)
