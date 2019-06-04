@@ -13,6 +13,7 @@ Recommendations or contributions are all welcome!
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
 - [Multi-Task Learning](https://github.com/SparkJiao/KK-s-Paperlist#multi-task-learning)
+- [Transfer Learning](https://github.com/SparkJiao/KK-s-Paperlist#transfer-learning)
 - [Attention Mechanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
 - [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
@@ -122,6 +123,8 @@ Recommendations or contributions are all welcome!
 
 [Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
 
+[Attention Is (not) All You Need for Commonsense Reasoning](https://arxiv.org/abs/1905.13497v1)
+
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
 
@@ -166,6 +169,12 @@ Recommendations or contributions are all welcome!
 - Better performance than BERT on natural language understanding tasks.
 
 [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
+
+## Transfer Learning
+
+[An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models](https://arxiv.org/abs/1902.10547v3)
+
+[MULTIQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/pdf/1905.13453v1.pdf)
 
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
