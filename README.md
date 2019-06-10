@@ -115,6 +115,8 @@ Recommendations or contributions are all welcome!
 
 [A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension](https://arxiv.org/abs/1905.12848)
 
+[Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://arxiv.org/pdf/1905.05460.pdf)
+
 ## Document Summary
 
 [Hierarchical Transformers for Multi-Document Summarization](https://arxiv.org/pdf/1905.13164v1.pdf)
