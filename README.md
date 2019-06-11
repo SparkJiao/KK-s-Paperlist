@@ -222,6 +222,12 @@ Recommendations or contributions are all welcome!
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
+[Compositional Questions Do Not Necessitate Multi-hop Reasoning](https://arxiv.org/pdf/1906.02900.pdf)
+
+[Multi-hop Reading Comprehension through Question Decomposition and Rescoring](https://arxiv.org/pdf/1906.02916.pdf)
+
+[Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/pdf/1906.02940.pdf)
+
 [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671)
 
 [Attention, please! A Critical Review of Neural Attention Models in Natural Language Processing](https://www.semanticscholar.org/paper/Attention%2C-please!-A-Critical-Review-of-Neural-in-Galassi-Lippi/9a7def005efb5b4984886c8a07ec4d80152602ab)
