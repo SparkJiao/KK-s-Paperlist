@@ -36,6 +36,8 @@ Recommendations or contributions are all welcome!
 
 [SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728v1#)
 
+[HEAD-QA: A Healthcare Dataset for Complex Reasoning](https://arxiv.org/abs/1906.04701v1)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
@@ -222,6 +224,10 @@ Recommendations or contributions are all welcome!
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
+[Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network](https://arxiv.org/pdf/1906.04684v1.pdf)
+
+[Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension](https://arxiv.org/pdf/1906.04618v1.pdf)
+
 [Compositional Questions Do Not Necessitate Multi-hop Reasoning](https://arxiv.org/pdf/1906.02900.pdf)
 
 [Multi-hop Reading Comprehension through Question Decomposition and Rescoring](https://arxiv.org/pdf/1906.02916.pdf)
