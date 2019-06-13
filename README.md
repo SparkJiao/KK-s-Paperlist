@@ -204,6 +204,8 @@ Recommendations or contributions are all welcome!
 
 [Effectiveness of Self Normalizing Neural Networks for Text Classification](https://arxiv.org/abs/1905.01338v1)
 
+[Self-Supervised Learning for Contextualized Extractive Summarization](https://arxiv.org/abs/1906.04466v1)
+
 ## Semi-Supervised Learning
 
 [Tri-Training: Exploiting Unlabeled Data Using Three Classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512038)
@@ -224,6 +226,10 @@ Recommendations or contributions are all welcome!
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
+[Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/abs/1811.00196v2)
+
+[Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems](https://arxiv.org/pdf/1906.04413v1.pdf)
+
 [Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network](https://arxiv.org/pdf/1906.04684v1.pdf)
 
 [Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension](https://arxiv.org/pdf/1906.04618v1.pdf)
