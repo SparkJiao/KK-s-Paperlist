@@ -226,6 +226,8 @@ Recommendations or contributions are all welcome!
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
+[Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://arxiv.org/abs/1903.00138v3)
+
 [Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension](https://arxiv.org/pdf/1906.05210v1.pdf)
 
 [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/abs/1811.00196v2)
