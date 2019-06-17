@@ -184,6 +184,8 @@ Recommendations or contributions are all welcome!
 
 [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/pdf/1905.06566.pdf)
 
+[Pretraining Methods for Dialog Context Representation Learning](https://arxiv.org/pdf/1906.00414.pdf)
+
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
 
