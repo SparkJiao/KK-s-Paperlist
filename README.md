@@ -180,6 +180,8 @@ Recommendations or contributions are all welcome!
 
 [MULTIQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/pdf/1905.13453v1.pdf)
 
+[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751v2.pdf)
+
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
 
