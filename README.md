@@ -48,6 +48,8 @@ Recommendations or contributions are all welcome!
 
 [ERNIE: Enhanced Language Representation with Informative Entities](https://github.com/thunlp/ERNIE)
 
+[Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
+
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
