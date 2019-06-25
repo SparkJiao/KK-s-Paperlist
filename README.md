@@ -50,6 +50,8 @@ Recommendations or contributions are all welcome!
 
 [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
 
+[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)
+
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
