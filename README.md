@@ -8,6 +8,7 @@ Recommendations or contributions are all welcome!
 - [Visual Question Answering](https://github.com/SparkJiao/KK-s-Paperlist#visual-question-answering)
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
+- [Claim Verification](https://github.com/SparkJiao/KK-s-Paperlist#claim-verification)
 - [Document Summary](https://github.com/SparkJiao/KK-s-Paperlist#document-summary)
 - [Commonsense Reasoning](https://github.com/SparkJiao/KK-s-Paperlist#commonsense-reasoning)
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
@@ -123,6 +124,10 @@ Recommendations or contributions are all welcome!
 
 [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://arxiv.org/pdf/1905.05460.pdf)
 
+## Claim Verification
+
+[Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks](https://www.researchgate.net/profile/Wei_Gao56/publication/333601369_Sentence-Level_Evidence_Embedding_for_Claim_Verification_with_Hierarchical_Attention_Networks/links/5cf6f755a6fdcc84750637eb/Sentence-Level-Evidence-Embedding-for-Claim-Verification-with-Hierarchical-Attention-Networks.pdf)
+
 ## Document Summary
 
 [Hierarchical Transformers for Multi-Document Summarization](https://arxiv.org/pdf/1905.13164v1.pdf)
@@ -141,6 +146,8 @@ Recommendations or contributions are all welcome!
 [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069v3.pdf)
 
 [Memory-augmented Dialogue Management for Task-oriented Dialogue Systems](https://arxiv.org/abs/1805.00150)
+
+[Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling](https://arxiv.org/pdf/1906.06893.pdf)
 
 
 ## Attention Mechanism
