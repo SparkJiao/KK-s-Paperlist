@@ -124,6 +124,8 @@ Recommendations or contributions are all welcome!
 
 [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://arxiv.org/pdf/1905.05460.pdf)
 
+[GRAPHFLOW: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://graphreason.github.io/papers/13.pdf)
+
 ## Claim Verification
 
 [Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks](https://www.researchgate.net/profile/Wei_Gao56/publication/333601369_Sentence-Level_Evidence_Embedding_for_Claim_Verification_with_Hierarchical_Attention_Networks/links/5cf6f755a6fdcc84750637eb/Sentence-Level-Evidence-Embedding-for-Claim-Verification-with-Hierarchical-Attention-Networks.pdf)
