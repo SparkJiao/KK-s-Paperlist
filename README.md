@@ -53,6 +53,8 @@ Recommendations or contributions are all welcome!
 
 [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)
 
+[Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/pdf/1903.08855.pdf)
+
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
