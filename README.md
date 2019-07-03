@@ -8,7 +8,7 @@ Recommendations or contributions are all welcome!
 - [Visual Question Answering](https://github.com/SparkJiao/KK-s-Paperlist#visual-question-answering)
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
-- [Open Domain Question Answering(Information Retrieval)](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
+- [Open Domain Question Answering(Information Retrieval)](https://github.com/SparkJiao/KK-s-Paperlist#open-domain-question-answeringinformation-retrieval)
 - [Claim Verification](https://github.com/SparkJiao/KK-s-Paperlist#claim-verification)
 - [Document Summary](https://github.com/SparkJiao/KK-s-Paperlist#document-summary)
 - [Commonsense Reasoning](https://github.com/SparkJiao/KK-s-Paperlist#commonsense-reasoning)
