@@ -8,6 +8,7 @@ Recommendations or contributions are all welcome!
 - [Visual Question Answering](https://github.com/SparkJiao/KK-s-Paperlist#visual-question-answering)
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
+- [Open Domain Question Answering(Information Retrieval)](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
 - [Claim Verification](https://github.com/SparkJiao/KK-s-Paperlist#claim-verification)
 - [Document Summary](https://github.com/SparkJiao/KK-s-Paperlist#document-summary)
 - [Commonsense Reasoning](https://github.com/SparkJiao/KK-s-Paperlist#commonsense-reasoning)
@@ -127,6 +128,10 @@ Recommendations or contributions are all welcome!
 [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://arxiv.org/pdf/1905.05460.pdf)
 
 [GRAPHFLOW: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://graphreason.github.io/papers/13.pdf)
+
+## Open Domain Question Answering(Information Retrieval)
+
+[Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300v3.pdf)
 
 ## Claim Verification
 
