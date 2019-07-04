@@ -129,6 +129,8 @@ Recommendations or contributions are all welcome!
 
 [GRAPHFLOW: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://graphreason.github.io/papers/13.pdf)
 
+[Neural Machine Reading Comprehension: Methods and Trends](https://arxiv.org/abs/1907.01118)
+
 ## Open Domain Question Answering(Information Retrieval)
 
 [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300v3.pdf)
