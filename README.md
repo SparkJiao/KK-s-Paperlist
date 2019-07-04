@@ -179,6 +179,8 @@ Recommendations or contributions are all welcome!
 
 [Convolutional Self-Attention Networks](https://arxiv.org/pdf/1904.03107.pdf)
 
+[Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650v2)
+
 
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
