@@ -252,6 +252,8 @@ Recommendations or contributions are all welcome!
 
 [Zoho at SemEval-2019 Task 9: Semi-supervised Domain Adaptation using Tri-training for Suggestion Mining](https://arxiv.org/pdf/1902.10623v2.pdf)
 
+[Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848v2.pdf)
+
 ## GAN
 
 [Adversarial Training Methods for Semi-Supervised Text Classification](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/ADVERSARIAL%20TRAINING%20METHODS%20FOR%20SEMI-SUPERVISED%20TEXT%20CLASSIFICATION.pdf)
