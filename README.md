@@ -145,6 +145,8 @@ Recommendations or contributions are all welcome!
 
 [Self-Supervised Learning for Contextualized Extractive Summarization](https://arxiv.org/pdf/1906.04466.pdf)
 
+[Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf)
+
 ## Commonsense Reasoning
 
 [Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
