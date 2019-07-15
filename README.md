@@ -56,6 +56,8 @@ Recommendations or contributions are all welcome!
 
 [Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/pdf/1903.08855.pdf)
 
+[Can Unconditional Language Models Recover Arbitrary Sentences?](https://arxiv.org/pdf/1907.04944v1.pdf)
+
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
