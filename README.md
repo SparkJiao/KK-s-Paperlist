@@ -58,6 +58,8 @@ Recommendations or contributions are all welcome!
 
 [Can Unconditional Language Models Recover Arbitrary Sentences?](https://arxiv.org/pdf/1907.04944v1.pdf)
 
+[TO TUNE OR NOT TO TUNE? HOW ABOUT THE BEST OF BOTH WORLDS?](https://arxiv.org/pdf/1907.05338v1.pdf)
+
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
