@@ -40,6 +40,8 @@ Recommendations or contributions are all welcome!
 
 [HEAD-QA: A Healthcare Dataset for Complex Reasoning](https://arxiv.org/abs/1906.04701v1)
 
+[TweetQA: Question Answering in Social Media](https://tweetqa.github.io/)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
