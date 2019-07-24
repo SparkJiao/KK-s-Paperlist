@@ -22,6 +22,7 @@ Recommendations or contributions are all welcome!
 - [Graph Neural Network](https://github.com/SparkJiao/KK-s-Paperlist#graph-neural-network)
 - [Self Training](https://github.com/SparkJiao/KK-s-Paperlist#self-training)
 - [Semi-Supervised Learning](https://github.com/SparkJiao/KK-s-Paperlist#semi-supervised-learning)
+- [Variational Auto Encoder](https://github.com/SparkJiao/KK-s-Paperlist#variational-auto-encoder)
 - [GAN](https://github.com/SparkJiao/KK-s-Paperlist#gan)
 - [Theory](https://github.com/SparkJiao/KK-s-Paperlist#theory)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
@@ -259,6 +260,12 @@ Recommendations or contributions are all welcome!
 [Zoho at SemEval-2019 Task 9: Semi-supervised Domain Adaptation using Tri-training for Suggestion Mining](https://arxiv.org/pdf/1902.10623v2.pdf)
 
 [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848v2.pdf)
+
+## Variational Auto Encoder
+
+[Variational Pretraining for Semi-supervised Text Classification](https://arxiv.org/pdf/1906.02242.pdf)
+
+[Unsupervised Domain Adaptation for Robust Speech Recognition via Variational Autoencoder Based Data Augmentation](https://www.researchgate.net/profile/Wei_Ning_Hsu2/publication/318583962_Unsupervised_Domain_Adaptation_for_Robust_Speech_Recognition_via_Variational_Autoencoder-Based_Data_Augmentation/links/597a009aaca272e8cc0d35cd/Unsupervised-Domain-Adaptation-for-Robust-Speech-Recognition-via-Variational-Autoencoder-Based-Data-Augmentation.pdf)
 
 ## GAN
 
