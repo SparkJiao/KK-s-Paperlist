@@ -273,6 +273,8 @@ Recommendations or contributions are all welcome!
 
 [Adversarial Examples for Natural Language Classification Problems](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/Adversarial%20Examples%20for%20Natural%20Language%20Classification%20Problems.pdf)
 
+[DATA AUGMENTATION GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1711.04340.pdf)
+
 ## Theory
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
