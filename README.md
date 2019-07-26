@@ -43,6 +43,8 @@ Recommendations or contributions are all welcome!
 
 [TweetQA: Question Answering in Social Media](https://tweetqa.github.io/)
 
+[Introducing long-form question answering](https://ai.facebook.com/blog/longform-qa/)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
