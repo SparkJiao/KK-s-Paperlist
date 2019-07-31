@@ -223,6 +223,8 @@ Recommendations or contributions are all welcome!
 
 [Pretraining Methods for Dialog Context Representation Learning](https://arxiv.org/pdf/1906.00414.pdf)
 
+[How to Get Past Sesame Street: Sentence-Level Pretraining Beyond Language Modeling](https://research.fb.com/wp-content/uploads/2019/07/How-to-Get-Past-Sesame-Street-Sentence-Level-Pretraining-Beyond-Language-Modeling.pdf?)
+
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
 
