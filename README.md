@@ -361,4 +361,6 @@ Summaries of papers that address learning from few examples](https://towardsdata
 
 [Google at ACL 2019](https://ai.googleblog.com/2019/07/google-at-acl-2019.html)
 
+[Facebook research being presented at ACL 2019](https://ai.facebook.com/blog/facebook-research-at-acl-2019/)
+
 ### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#kks-paperlist)
