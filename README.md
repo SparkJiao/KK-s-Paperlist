@@ -359,4 +359,6 @@ Summaries of papers that address learning from few examples](https://towardsdata
 
 [用Bertviz可视化Position Embedding](https://zhuanlan.zhihu.com/p/58787695)
 
+[Google at ACL 2019](https://ai.googleblog.com/2019/07/google-at-acl-2019.html)
+
 ### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#kks-paperlist)
