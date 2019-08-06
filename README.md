@@ -173,6 +173,7 @@ Recommendations or contributions are all welcome!
 
 [Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling](https://arxiv.org/pdf/1906.06893.pdf)
 
+[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)
 
 ## Attention Mechanism
 [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
