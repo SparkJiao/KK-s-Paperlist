@@ -175,6 +175,8 @@ Recommendations or contributions are all welcome!
 
 [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)
 
+[Dialog State Tracking: A Neural Reading Comprehension Approach](https://arxiv.org/pdf/1908.01946.pdf)
+
 ## Attention Mechanism
 [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
 
