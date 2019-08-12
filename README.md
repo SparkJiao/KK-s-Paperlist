@@ -6,6 +6,7 @@ Recommendations or contributions are all welcome!
 - [Bentchmark or Datasets](https://github.com/SparkJiao/KK-s-Paperlist#benchmark-or-datasets)
 - [Language Models](https://github.com/SparkJiao/KK-s-Paperlist#language-models)
 - [Visual Question Answering](https://github.com/SparkJiao/KK-s-Paperlist#visual-question-answering)
+- [Representation Learning](https://github.com/SparkJiao/KK-s-Paperlist#representation-learning)
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
 - [Open Domain Question Answering(Information Retrieval)](https://github.com/SparkJiao/KK-s-Paperlist#open-domain-question-answeringinformation-retrieval)
@@ -77,6 +78,9 @@ Recommendations or contributions are all welcome!
 [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://github.com/ronghanghu/n2nmn)  
 
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://github.com/facebookresearch/corefnmn)
+
+## Representation Learning
+[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265v1.pdf)
 
 ## Natural Language Inference
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
