@@ -46,6 +46,8 @@ Recommendations or contributions are all welcome!
 
 [Introducing long-form question answering](https://ai.facebook.com/blog/longform-qa/)
 
+[Multi-class Hierarchical Question Classification for Multiple Choice Science Exams](https://arxiv.org/abs/1908.05441v1)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
