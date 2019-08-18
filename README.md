@@ -48,6 +48,8 @@ Recommendations or contributions are all welcome!
 
 [Multi-class Hierarchical Question Classification for Multiple Choice Science Exams](https://arxiv.org/abs/1908.05441v1)
 
+[XCMRC: Evaluating Cross-lingual Machine Reading Comprehension](https://arxiv.org/abs/1908.05416v1)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
