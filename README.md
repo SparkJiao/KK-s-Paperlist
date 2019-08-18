@@ -302,6 +302,8 @@ Recommendations or contributions are all welcome!
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
+[Multi-Task Self-Supervised Learning for Disfluency Detection](https://arxiv.org/abs/1908.05378v1)
+
 [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://arxiv.org/abs/1903.00138v3)
 
 [Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension](https://arxiv.org/pdf/1906.05210v1.pdf)
