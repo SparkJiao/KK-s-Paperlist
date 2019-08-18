@@ -144,6 +144,8 @@ Recommendations or contributions are all welcome!
 
 [Neural Machine Reading Comprehension: Methods and Trends](https://arxiv.org/abs/1907.01118)
 
+[A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514v1)
+
 ## Open Domain Question Answering(Information Retrieval)
 
 [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300v3.pdf)
