@@ -86,6 +86,8 @@ Recommendations or contributions are all welcome!
 ## Representation Learning
 [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265v1.pdf)
 
+[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490)
+
 ## Natural Language Inference
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
 
