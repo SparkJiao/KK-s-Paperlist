@@ -234,6 +234,8 @@ Recommendations or contributions are all welcome!
 
 ## Transfer Learning
 
+[MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models](https://arxiv.org/abs/1908.01816)
+
 [An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models](https://arxiv.org/abs/1902.10547v3)
 
 [MULTIQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/pdf/1905.13453v1.pdf)
@@ -304,6 +306,9 @@ Recommendations or contributions are all welcome!
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
+
+[Self-Knowledge Distillation in Natural Language Processing](https://arxiv.org/abs/1908.01851)
+
 [Multi-Task Self-Supervised Learning for Disfluency Detection](https://arxiv.org/abs/1908.05378v1)
 
 [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://arxiv.org/abs/1903.00138v3)
