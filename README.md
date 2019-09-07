@@ -21,7 +21,7 @@ Recommendations or contributions are all welcome!
 - [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
 - [Graph Neural Network](https://github.com/SparkJiao/KK-s-Paperlist#graph-neural-network)
-- [Self Training](https://github.com/SparkJiao/KK-s-Paperlist#self-training)
+- [Self-Supervised Learning](https://github.com/SparkJiao/KK-s-Paperlist#self-supervised-learning)
 - [Semi-Supervised Learning](https://github.com/SparkJiao/KK-s-Paperlist#semi-supervised-learning)
 - [Variational Auto Encoder](https://github.com/SparkJiao/KK-s-Paperlist#variational-auto-encoder)
 - [GAN](https://github.com/SparkJiao/KK-s-Paperlist#gan)
@@ -258,7 +258,9 @@ Recommendations or contributions are all welcome!
 
 [Embedding Logical Queries on Knowledge Graphs](https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)
 
-## Self Training
+## Self-Supervised Learning
+
+[Language Model Pre-training for Hierarchical Document Representations](https://arxiv.org/abs/1901.09128)
 
 [Improve Diverse Text Generation by Self Labeling Conditional Variational Auto Encoder](https://arxiv.org/abs/1903.10842v1)
 
