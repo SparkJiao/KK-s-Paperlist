@@ -53,6 +53,9 @@ Recommendations or contributions are all welcome!
 
 [Coached Conversational Preference Elicitation](https://ai.google/tools/datasets/coached-conversational-preference-elicitation)
 
+[TABFACT: A LARGE-SCALE DATASET FOR TABLEBASED FACT VERIFICATION](https://arxiv.org/pdf/1909.02164.pdf)
+
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
