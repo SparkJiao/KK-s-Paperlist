@@ -50,6 +50,8 @@ Recommendations or contributions are all welcome!
 
 [XCMRC: Evaluating Cross-lingual Machine Reading Comprehension](https://arxiv.org/abs/1908.05416v1)
 
+[Coached Conversational Preference Elicitation](https://ai.google/tools/datasets/coached-conversational-preference-elicitation)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
