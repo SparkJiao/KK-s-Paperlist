@@ -14,6 +14,7 @@ Recommendations or contributions are all welcome!
 - [Document Summary](https://github.com/SparkJiao/KK-s-Paperlist#document-summary)
 - [Commonsense Reasoning](https://github.com/SparkJiao/KK-s-Paperlist#commonsense-reasoning)
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
+- [Natural Language Generation](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-generation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
 - [Multi-Task Learning](https://github.com/SparkJiao/KK-s-Paperlist#multi-task-learning)
 - [Transfer Learning](https://github.com/SparkJiao/KK-s-Paperlist#transfer-learning)
@@ -222,6 +223,9 @@ Recommendations or contributions are all welcome!
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
 - Tap the potential strength of deep transition between consecutive hidden states and propose a novel deep transition RNN-based architecture for NMT
 - Propose a simple yet more effective linear transformation enhanced GRU for our deep transition RNMT, which provides a linear transformation path for deep transition of consecutive hidden states.
+
+## Natural Language Generation
+[FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480v1.pdf)
 
 ## Interpretability of Machine Learning
 [Interpretable machine learning: deﬁnitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
