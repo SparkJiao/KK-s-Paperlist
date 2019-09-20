@@ -11,7 +11,7 @@ Recommendations or contributions are all welcome!
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
 - [Open Domain Question Answering(Information Retrieval)](https://github.com/SparkJiao/KK-s-Paperlist#open-domain-question-answeringinformation-retrieval)
 - [Claim Verification](https://github.com/SparkJiao/KK-s-Paperlist#claim-verification)
-- [Document Summary](https://github.com/SparkJiao/KK-s-Paperlist#document-summary)
+- [Document Summarization](https://github.com/SparkJiao/KK-s-Paperlist#document-summarization)
 - [Commonsense Reasoning](https://github.com/SparkJiao/KK-s-Paperlist#commonsense-reasoning)
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
 - [Natural Language Generation](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-generation)
@@ -167,6 +167,8 @@ Recommendations or contributions are all welcome!
 [Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks](https://www.researchgate.net/profile/Wei_Gao56/publication/333601369_Sentence-Level_Evidence_Embedding_for_Claim_Verification_with_Hierarchical_Attention_Networks/links/5cf6f755a6fdcc84750637eb/Sentence-Level-Evidence-Embedding-for-Claim-Verification-with-Hierarchical-Attention-Networks.pdf)
 
 ## Document Summarization
+
+[Cooperative Generator-Discriminator Networks for Abstractive Summarization with Narrative Flow](https://arxiv.org/abs/1907.01272)
 
 [Hierarchical Transformers for Multi-Document Summarization](https://arxiv.org/pdf/1905.13164v1.pdf)
 
