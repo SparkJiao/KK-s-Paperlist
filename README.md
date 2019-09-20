@@ -6,16 +6,25 @@ Recommendations or contributions are all welcome!
 - [Bentchmark or Datasets](https://github.com/SparkJiao/KK-s-Paperlist#benchmark-or-datasets)
 - [Language Models](https://github.com/SparkJiao/KK-s-Paperlist#language-models)
 - [Visual Question Answering](https://github.com/SparkJiao/KK-s-Paperlist#visual-question-answering)
+- [Representation Learning](https://github.com/SparkJiao/KK-s-Paperlist#representation-learning)
 - [Natural Language Inference](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-inference)
 - [Machine Reading Comprehension](https://github.com/SparkJiao/KK-s-Paperlist#machine-reading-comprehension)
+- [Open Domain Question Answering(Information Retrieval)](https://github.com/SparkJiao/KK-s-Paperlist#open-domain-question-answeringinformation-retrieval)
+- [Claim Verification](https://github.com/SparkJiao/KK-s-Paperlist#claim-verification)
+- [Document Summary](https://github.com/SparkJiao/KK-s-Paperlist#document-summary)
 - [Commonsense Reasoning](https://github.com/SparkJiao/KK-s-Paperlist#commonsense-reasoning)
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
+- [Natural Language Generation](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-generation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
 - [Multi-Task Learning](https://github.com/SparkJiao/KK-s-Paperlist#multi-task-learning)
+- [Transfer Learning](https://github.com/SparkJiao/KK-s-Paperlist#transfer-learning)
 - [Attention Mechanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
 - [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
 - [Dialog System](https://github.com/SparkJiao/KK-s-Paperlist#dialog-system)
 - [Graph Neural Network](https://github.com/SparkJiao/KK-s-Paperlist#graph-neural-network)
+- [Self-Supervised Learning](https://github.com/SparkJiao/KK-s-Paperlist#self-supervised-learning)
+- [Semi-Supervised Learning](https://github.com/SparkJiao/KK-s-Paperlist#semi-supervised-learning)
+- [Variational Auto Encoder](https://github.com/SparkJiao/KK-s-Paperlist#variational-auto-encoder)
 - [GAN](https://github.com/SparkJiao/KK-s-Paperlist#gan)
 - [Theory](https://github.com/SparkJiao/KK-s-Paperlist#theory)
 - [Waiting List](https://github.com/SparkJiao/KK-s-Paperlist#waiting-list)
@@ -30,11 +39,42 @@ Recommendations or contributions are all welcome!
 
 [A dataset for resolving referring expressions in spoken dialogue via contextual query rewrites (CQR)](https://arxiv.org/pdf/1903.11783.pdf)
 
+[SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728v1#)
+
+[HEAD-QA: A Healthcare Dataset for Complex Reasoning](https://arxiv.org/abs/1906.04701v1)
+
+[TweetQA: Question Answering in Social Media](https://tweetqa.github.io/)
+
+[Introducing long-form question answering](https://ai.facebook.com/blog/longform-qa/)
+
+[Multi-class Hierarchical Question Classification for Multiple Choice Science Exams](https://arxiv.org/abs/1908.05441v1)
+
+[XCMRC: Evaluating Cross-lingual Machine Reading Comprehension](https://arxiv.org/abs/1908.05416v1)
+
+[Coached Conversational Preference Elicitation](https://ai.google/tools/datasets/coached-conversational-preference-elicitation)
+
+[TABFACT: A LARGE-SCALE DATASET FOR TABLEBASED FACT VERIFICATION](https://arxiv.org/pdf/1909.02164.pdf)
+
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 
 [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136v1.pdf)
+
+[Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482v1)
+
+[ERNIE: Enhanced Language Representation with Informative Entities](https://github.com/thunlp/ERNIE)
+
+[Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101)
+
+[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)
+
+[Linguistic Knowledge and Transferability of Contextual Representations](https://arxiv.org/pdf/1903.08855.pdf)
+
+[Can Unconditional Language Models Recover Arbitrary Sentences?](https://arxiv.org/pdf/1907.04944v1.pdf)
+
+[TO TUNE OR NOT TO TUNE? HOW ABOUT THE BEST OF BOTH WORLDS?](https://arxiv.org/pdf/1907.05338v1.pdf)
 
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
@@ -48,6 +88,11 @@ Recommendations or contributions are all welcome!
 [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://github.com/ronghanghu/n2nmn)  
 
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://github.com/facebookresearch/corefnmn)
+
+## Representation Learning
+[ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265v1.pdf)
+
+[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490)
 
 ## Natural Language Inference
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
@@ -103,9 +148,37 @@ Recommendations or contributions are all welcome!
 
 [Convolutional Spatial Attention Model for Reading Comprehension with Multiple-Choice Questions](https://arxiv.org/pdf/1811.08610.pdf)
 
+[A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension](https://arxiv.org/abs/1905.12848)
+
+[Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://arxiv.org/pdf/1905.05460.pdf)
+
+[GRAPHFLOW: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://graphreason.github.io/papers/13.pdf)
+
+[Neural Machine Reading Comprehension: Methods and Trends](https://arxiv.org/abs/1907.01118)
+
+[A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514v1)
+
+## Open Domain Question Answering(Information Retrieval)
+
+[Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300v3.pdf)
+
+## Claim Verification
+
+[Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks](https://www.researchgate.net/profile/Wei_Gao56/publication/333601369_Sentence-Level_Evidence_Embedding_for_Claim_Verification_with_Hierarchical_Attention_Networks/links/5cf6f755a6fdcc84750637eb/Sentence-Level-Evidence-Embedding-for-Claim-Verification-with-Hierarchical-Attention-Networks.pdf)
+
+## Document Summarization
+
+[Hierarchical Transformers for Multi-Document Summarization](https://arxiv.org/pdf/1905.13164v1.pdf)
+
+[Self-Supervised Learning for Contextualized Extractive Summarization](https://arxiv.org/pdf/1906.04466.pdf)
+
+[Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf)
+
 ## Commonsense Reasoning
 
 [Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
+
+[Attention Is (not) All You Need for Commonsense Reasoning](https://arxiv.org/abs/1905.13497v1)
 
 ## Dialog System
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
@@ -116,8 +189,21 @@ Recommendations or contributions are all welcome!
 
 [Memory-augmented Dialogue Management for Task-oriented Dialogue Systems](https://arxiv.org/abs/1805.00150)
 
+[Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling](https://arxiv.org/pdf/1906.06893.pdf)
+
+[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)
+
+[Dialog State Tracking: A Neural Reading Comprehension Approach](https://arxiv.org/pdf/1908.01946.pdf)
+
+[SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://arxiv.org/pdf/1907.07421.pdf)
+
+[Dialog State Tracking: A Neural Reading Comprehension Approach](https://arxiv.org/pdf/1908.01946v2.pdf)
+
+[HyST: A Hybrid Approach for Flexible and Accurate Dialogue State Tracking](https://arxiv.org/pdf/1907.00883.pdf)
 
 ## Attention Mechanism
+[An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
+
 [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544)
 
 [Modeling Localness for Self-Attention Networks](https://arxiv.org/abs/1810.10182)
@@ -131,11 +217,18 @@ Recommendations or contributions are all welcome!
 
 [Document Modeling with External Attention for Sentence Extraction](http://aclweb.org/anthology/P18-1188)
 
+[Convolutional Self-Attention Networks](https://arxiv.org/pdf/1904.03107.pdf)
+
+[Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650v2)
+
 
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
 - Tap the potential strength of deep transition between consecutive hidden states and propose a novel deep transition RNN-based architecture for NMT
 - Propose a simple yet more effective linear transformation enhanced GRU for our deep transition RNMT, which provides a linear transformation path for deep transition of consecutive hidden states.
+
+## Natural Language Generation
+[FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480v1.pdf)
 
 ## Interpretability of Machine Learning
 [Interpretable machine learning: deﬁnitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
@@ -148,6 +241,22 @@ Recommendations or contributions are all welcome!
 
 [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf)
 
+## Transfer Learning
+
+[MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models](https://arxiv.org/abs/1908.01816)
+
+[An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models](https://arxiv.org/abs/1902.10547v3)
+
+[MULTIQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/pdf/1905.13453v1.pdf)
+
+[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751v2.pdf)
+
+[HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/pdf/1905.06566.pdf)
+
+[Pretraining Methods for Dialog Context Representation Learning](https://arxiv.org/pdf/1906.00414.pdf)
+
+[How to Get Past Sesame Street: Sentence-Level Pretraining Beyond Language Modeling](https://research.fb.com/wp-content/uploads/2019/07/How-to-Get-Past-Sesame-Street-Sentence-Level-Pretraining-Beyond-Language-Modeling.pdf?)
+
 ## Reinforcement Learning
 [Learning Structured Representation for Text Classification via Reinforcement Learning](http://coai.cs.tsinghua.edu.cn/hml/media/files/AAAI2018_ClassifyAndStructure.pdf)
 
@@ -156,16 +265,81 @@ Recommendations or contributions are all welcome!
 ## Graph Neural Network
 [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153)
 
+[Embedding Logical Queries on Knowledge Graphs](https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)
+
+## Self-Supervised Learning
+
+[Language Model Pre-training for Hierarchical Document Representations](https://arxiv.org/abs/1901.09128)
+
+[Improve Diverse Text Generation by Self Labeling Conditional Variational Auto Encoder](https://arxiv.org/abs/1903.10842v1)
+
+[Neural Self Talk: Image Understanding via Continuous Questioning and Answering](https://arxiv.org/abs/1512.03460v1)
+
+[Dual Supervised Learning for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.06196v1)
+
+[Structured Minimally Supervised Learning for Neural Relation Extraction](https://arxiv.org/abs/1904.00118v4)
+
+[A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification](https://arxiv.org/abs/1904.05055v1)
+
+[Effectiveness of Self Normalizing Neural Networks for Text Classification](https://arxiv.org/abs/1905.01338v1)
+
+[Self-Supervised Learning for Contextualized Extractive Summarization](https://arxiv.org/abs/1906.04466v1)
+
+[Self-Supervised Dialogue Learning](https://arxiv.org/pdf/1907.00448v1.pdf)
+
+## Semi-Supervised Learning
+
+[Tri-Training: Exploiting Unlabeled Data Using Three Classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512038)
+
+[Tri-net for Semi-Supervised Deep Learning](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ijcai18trinet.pdf)
+
+[Semi-Supervised Learning with Ladder Networks](https://arxiv.org/pdf/1507.02672.pdf)
+
+[Zoho at SemEval-2019 Task 9: Semi-supervised Domain Adaptation using Tri-training for Suggestion Mining](https://arxiv.org/pdf/1902.10623v2.pdf)
+
+[Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848v2.pdf)
+
+## Variational Auto Encoder
+
+[Variational Pretraining for Semi-supervised Text Classification](https://arxiv.org/pdf/1906.02242.pdf)
+
+[Unsupervised Domain Adaptation for Robust Speech Recognition via Variational Autoencoder Based Data Augmentation](https://www.researchgate.net/profile/Wei_Ning_Hsu2/publication/318583962_Unsupervised_Domain_Adaptation_for_Robust_Speech_Recognition_via_Variational_Autoencoder-Based_Data_Augmentation/links/597a009aaca272e8cc0d35cd/Unsupervised-Domain-Adaptation-for-Robust-Speech-Recognition-via-Variational-Autoencoder-Based-Data-Augmentation.pdf)
+
 ## GAN
 
 [Adversarial Training Methods for Semi-Supervised Text Classification](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/ADVERSARIAL%20TRAINING%20METHODS%20FOR%20SEMI-SUPERVISED%20TEXT%20CLASSIFICATION.pdf)
 
 [Adversarial Examples for Natural Language Classification Problems](https://github.com/SparkJiao/KK-s-Paperlist/blob/master/papers/Adversarial%20Examples%20for%20Natural%20Language%20Classification%20Problems.pdf)
 
+[DATA AUGMENTATION GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1711.04340.pdf)
+
 ## Theory
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
 ## Waiting List
+
+[Self-Knowledge Distillation in Natural Language Processing](https://arxiv.org/abs/1908.01851)
+
+[Multi-Task Self-Supervised Learning for Disfluency Detection](https://arxiv.org/abs/1908.05378v1)
+
+[Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://arxiv.org/abs/1903.00138v3)
+
+[Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension](https://arxiv.org/pdf/1906.05210v1.pdf)
+
+[Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/abs/1811.00196v2)
+
+[Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems](https://arxiv.org/pdf/1906.04413v1.pdf)
+
+[Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network](https://arxiv.org/pdf/1906.04684v1.pdf)
+
+[Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension](https://arxiv.org/pdf/1906.04618v1.pdf)
+
+[Compositional Questions Do Not Necessitate Multi-hop Reasoning](https://arxiv.org/pdf/1906.02900.pdf)
+
+[Multi-hop Reading Comprehension through Question Decomposition and Rescoring](https://arxiv.org/pdf/1906.02916.pdf)
+
+[Selfie: Self-supervised Pretraining for Image Embedding](https://arxiv.org/pdf/1906.02940.pdf)
+
 [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671)
 
 [Attention, please! A Critical Review of Neural Attention Models in Natural Language Processing](https://www.semanticscholar.org/paper/Attention%2C-please!-A-Critical-Review-of-Neural-in-Galassi-Lippi/9a7def005efb5b4984886c8a07ec4d80152602ab)
@@ -176,13 +350,29 @@ Recommendations or contributions are all welcome!
 
 [Gating Mechanisms for Combining Character and Word-level Word Representations: An Empirical Study](https://arxiv.org/pdf/1904.05584.pdf)
 
-[Convolutional Self-Attention Networks](https://arxiv.org/pdf/1904.03107.pdf)
-
-[An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
-
 [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531)
 
 [Relational Graph Attention Networks](https://arxiv.org/abs/1904.05811)
+
+[Dry, Focus, and Transcribe: End-to-End Integration of Dereverberation, Beamforming, and ASR](https://arxiv.org/abs/1904.09049v2)
+
+[Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System](https://arxiv.org/abs/1904.09636v1)
+
+[Dynamic Past and Future for Neural Machine Translation](https://arxiv.org/abs/1904.09646v1)
+
+[Probing Prior Knowledge Needed in Challenging Chinese Machine Reading Comprehension](https://arxiv.org/abs/1904.09679v1)
+
+[I Know What You Want: Semantic Learning for Text Comprehension](https://arxiv.org/abs/1809.02794v2)
+
+[Gradient-based Inference for Networks with Output Constraints](https://arxiv.org/abs/1707.08608v3)
+
+[Unifying Question Answering and Text Classification via Span Extraction](https://arxiv.org/abs/1904.09286v1)
+
+[Modality Attention for End-to-End Audio-visual Speech Recognition](https://arxiv.org/abs/1811.05250v2)
+
+[The Use of Unlabeled Data versus Labeled Data for Stopping Active Learning for Text Classification](https://arxiv.org/abs/1901.09126v2)
+
+[Efficient and Robust Question Answering from Minimal Context over Documents](https://aclweb.org/anthology/P18-1160)
 
 ## Some Interesting or Useful Blogs
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
@@ -202,5 +392,16 @@ Recommendations or contributions are all welcome!
 [INTERSPEECH 2017系列 | 语音识别之后处理技术](https://yq.aliyun.com/articles/332445/)
 
 [Yejin Choi - Language and X ∈ {vision, knowledge, world, mind, society...}](https://homes.cs.washington.edu/~yejin/)
+
+[Better Heatmaps and Correlation Matrix Plots in Python](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec)
+
+[ICLR 2019: Overcoming limited data
+Summaries of papers that address learning from few examples](https://towardsdatascience.com/iclr-2019-overcoming-limited-data-382cd19db6d2)
+
+[用Bertviz可视化Position Embedding](https://zhuanlan.zhihu.com/p/58787695)
+
+[Google at ACL 2019](https://ai.googleblog.com/2019/07/google-at-acl-2019.html)
+
+[Facebook research being presented at ACL 2019](https://ai.facebook.com/blog/facebook-research-at-acl-2019/)
 
 ### [Return Top](https://github.com/SparkJiao/KK-s-Paperlist#kks-paperlist)
