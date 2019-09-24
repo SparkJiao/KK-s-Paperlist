@@ -289,6 +289,8 @@ Recommendations or contributions are all welcome!
 
 [Self-Supervised Dialogue Learning](https://arxiv.org/pdf/1907.00448v1.pdf)
 
+[BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://arxiv.org/abs/1909.07405v2)
+
 ## Semi-Supervised Learning
 
 [Tri-Training: Exploiting Unlabeled Data Using Three Classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512038)
