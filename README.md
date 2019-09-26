@@ -291,6 +291,8 @@ Recommendations or contributions are all welcome!
 
 [BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle](https://arxiv.org/abs/1909.07405v2)
 
+[ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://openreview.net/pdf?id=H1eA7AEtvS)
+
 ## Semi-Supervised Learning
 
 [Tri-Training: Exploiting Unlabeled Data Using Three Classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512038)
