@@ -158,6 +158,8 @@ Recommendations or contributions are all welcome!
 
 [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514v1)
 
+[Unsupervised Question Answering by Cloze Translation](https://arxiv.org/abs/1906.04980)
+
 ## Open Domain Question Answering(Information Retrieval)
 
 [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/pdf/1906.00300v3.pdf)
@@ -202,6 +204,8 @@ Recommendations or contributions are all welcome!
 [Dialog State Tracking: A Neural Reading Comprehension Approach](https://arxiv.org/pdf/1908.01946v2.pdf)
 
 [HyST: A Hybrid Approach for Flexible and Accurate Dialogue State Tracking](https://arxiv.org/pdf/1907.00883.pdf)
+
+[Data-Efficient Goal-Oriented Conversation with Dialogue Knowledge Transfer Networks](https://arxiv.org/abs/1910.01302)
 
 ## Attention Mechanism
 [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
