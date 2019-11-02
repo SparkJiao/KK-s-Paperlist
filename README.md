@@ -207,6 +207,8 @@ Recommendations or contributions are all welcome!
 
 [Data-Efficient Goal-Oriented Conversation with Dialogue Knowledge Transfer Networks](https://arxiv.org/abs/1910.01302)
 
+[Neural Assistant: Joint Action Prediction, Response Generation, and Latent Knowledge Reasoning](https://arxiv.org/abs/1910.14599)
+
 ## Attention Mechanism
 [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
 
