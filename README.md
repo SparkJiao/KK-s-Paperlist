@@ -57,6 +57,8 @@ Recommendations or contributions are all welcome!
 
 [A Repository of Conversational Datasets](https://arxiv.org/pdf/1904.06472.pdf)
 
+[MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://arxiv.org/abs/1909.03242v2)
+
 
 ## Language Models
 
