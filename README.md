@@ -59,6 +59,8 @@ Recommendations or contributions are all welcome!
 
 [MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://arxiv.org/abs/1909.03242v2)
 
+[A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://breakend.github.io/DialogDatasets/)
+
 
 ## Language Models
 
