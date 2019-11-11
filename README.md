@@ -307,6 +307,8 @@ Recommendations or contributions are all welcome!
 
 [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://openreview.net/pdf?id=H1eA7AEtvS)
 
+[Multi-Task Self-Supervised Learning for Disfluency Detection](https://arxiv.org/abs/1908.05378)
+
 ## Semi-Supervised Learning
 
 [Tri-Training: Exploiting Unlabeled Data Using Three Classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512038)
