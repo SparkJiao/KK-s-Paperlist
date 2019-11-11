@@ -340,6 +340,8 @@ Recommendations or contributions are all welcome!
 
 ## Waiting List
 
+[Unsupervised Context Retrieval for Long-tail Entities](https://arxiv.org/abs/1908.01798)
+
 [Self-Knowledge Distillation in Natural Language Processing](https://arxiv.org/abs/1908.01851)
 
 [Multi-Task Self-Supervised Learning for Disfluency Detection](https://arxiv.org/abs/1908.05378v1)
