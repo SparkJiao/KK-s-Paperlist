@@ -217,6 +217,8 @@ Recommendations or contributions are all welcome!
 
 [Neural Assistant: Joint Action Prediction, Response Generation, and Latent Knowledge Reasoning](https://128.84.21.199/abs/1910.14613)
 
+[Conversation Generation with Concept Flow](https://arxiv.org/abs/1911.02707)
+
 ## Attention Mechanism
 [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
 
