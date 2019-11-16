@@ -219,6 +219,8 @@ Recommendations or contributions are all welcome!
 
 [Conversation Generation with Concept Flow](https://arxiv.org/abs/1911.02707)
 
+[Robust Zero-Shot Cross-Domain Slot Filling with Example Values](https://arxiv.org/abs/1906.06870)
+
 ## Attention Mechanism
 [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)
 
