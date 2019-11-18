@@ -241,6 +241,8 @@ Recommendations or contributions are all welcome!
 
 [Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650v2)
 
+[Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507)
+
 
 ## Machine Translation
 [DTMT: A Novel Deep Transition Architecture for Neural Machine Translation](https://arxiv.org/pdf/1812.07807.pdf)
