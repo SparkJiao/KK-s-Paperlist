@@ -61,6 +61,8 @@ Recommendations or contributions are all welcome!
 
 [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://breakend.github.io/DialogDatasets/)
 
+[The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset forE-commerce Customer Service](https://arxiv.org/abs/1911.09969v1)
+
 
 ## Language Models
 
