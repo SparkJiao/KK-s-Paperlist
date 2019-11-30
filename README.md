@@ -63,6 +63,7 @@ Recommendations or contributions are all welcome!
 
 [The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset forE-commerce Customer Service](https://arxiv.org/abs/1911.09969v1)
 
+[JEC-QA: A Legal-Domain Question Answering Dataset](https://arxiv.org/abs/1911.12011v1)
 
 ## Language Models
 
