@@ -65,6 +65,8 @@ Recommendations or contributions are all welcome!
 
 [JEC-QA: A Legal-Domain Question Answering Dataset](https://arxiv.org/abs/1911.12011v1)
 
+[SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization](https://arxiv.org/abs/1911.12237v1)
+
 ## Language Models
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
