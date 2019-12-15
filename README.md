@@ -87,6 +87,8 @@ Recommendations or contributions are all welcome!
 
 [TO TUNE OR NOT TO TUNE? HOW ABOUT THE BEST OF BOTH WORLDS?](https://arxiv.org/pdf/1907.05338v1.pdf)
 
+[Tree Transformer: Integrating Tree Structures into Self-Attention](https://arxiv.org/abs/1909.06639)
+
 ## Visual Question Answering
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog](https://arxiv.org/abs/1903.03166)
 
