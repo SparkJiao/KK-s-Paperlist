@@ -110,7 +110,7 @@ Recommendations or contributions are all welcome!
 [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB)
 
 ## Natural Language Inference
-[DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhangKun.5147.pdf)
+[DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/ojs/index.php/AAAI/article/view/4734/4612)
 
 [Neural Natural Language Inference Models Enhanced with External Knowledge](https://aclweb.org/anthology/P18-1224)
 
