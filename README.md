@@ -74,6 +74,8 @@ Recommendations or contributions are all welcome!
 
 ## Language Models
 
+[Encoder-Agnostic Adaptation for Conditional Language Generation](https://arxiv.org/abs/1908.06938)
+
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
 
 [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136v1.pdf)
