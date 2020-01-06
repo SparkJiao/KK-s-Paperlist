@@ -422,6 +422,9 @@ Recommendations or contributions are all welcome!
 [Efficient and Robust Question Answering from Minimal Context over Documents](https://aclweb.org/anthology/P18-1160)
 
 ## Some Interesting or Useful Blogs
+
+[🦄🤝🦄 Encoder-decoders in Transformers: a hybrid pre-trained architecture for seq2seq](https://medium.com/huggingface/encoder-decoders-in-transformers-a-hybrid-pre-trained-architecture-for-seq2seq-af4d7bf14bb8)
+
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
 
 [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/pdf/1903.05987.pdf)
