@@ -264,6 +264,9 @@ Recommendations or contributions are all welcome!
 - Propose a simple yet more effective linear transformation enhanced GRU for our deep transition RNMT, which provides a linear transformation path for deep transition of consecutive hidden states.
 
 ## Natural Language Generation
+
+[Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
+
 [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480v1.pdf)
 
 ## Interpretability of Machine Learning
