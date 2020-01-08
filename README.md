@@ -358,6 +358,8 @@ Recommendations or contributions are all welcome!
 
 [DATA AUGMENTATION GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1711.04340.pdf)
 
+[DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/pdf/2001.00179.pdf)
+
 ## Theory
 [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/pdf/1902.06853.pdf)
 
