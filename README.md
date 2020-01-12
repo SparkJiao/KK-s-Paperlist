@@ -265,6 +265,8 @@ Recommendations or contributions are all welcome!
 
 ## Natural Language Generation
 
+[Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](https://arxiv.org/abs/1907.12461)
+
 [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
 
 [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480v1.pdf)
