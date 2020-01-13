@@ -109,6 +109,8 @@ Recommendations or contributions are all welcome!
 
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://github.com/facebookresearch/corefnmn)
 
+[MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/pdf/1902.09487.pdf)
+
 ## Representation Learning
 [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265v1.pdf)
 
