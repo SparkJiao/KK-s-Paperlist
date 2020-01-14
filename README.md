@@ -429,6 +429,8 @@ Recommendations or contributions are all welcome!
 
 ## Some Interesting or Useful Blogs
 
+[技术分享丨ALBERT在CommonsenseQA方向的应用](https://mp.weixin.qq.com/s/FLPqcxPhfZKZ5piCkwVJdA)
+
 [🦄🤝🦄 Encoder-decoders in Transformers: a hybrid pre-trained architecture for seq2seq](https://medium.com/huggingface/encoder-decoders-in-transformers-a-hybrid-pre-trained-architecture-for-seq2seq-af4d7bf14bb8)
 
 [Comparing Pre-trained Language Models with Semantic Parsing](https://jbkjr.com/posts/2019/01/unsupervised_pretraining_comparison/)
