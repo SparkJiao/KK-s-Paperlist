@@ -310,6 +310,8 @@ Recommendations or contributions are all welcome!
 
 [Embedding Logical Queries on Knowledge Graphs](https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)
 
+[Graph-Bert: Only Attention is Needed for Learning Graph Representations](https://arxiv.org/abs/2001.05140)
+
 ## Self-Supervised Learning
 
 [Language Model Pre-training for Hierarchical Document Representations](https://arxiv.org/abs/1901.09128)
