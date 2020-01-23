@@ -126,6 +126,8 @@ Recommendations or contributions are all welcome!
 [Knowledge Base Relation Detection via Multi-View Matching](https://arxiv.org/pdf/1803.00612.pdf)
 
 ## Machine Reading Comprehension
+[Unsupervised Domain Adaptation on Reading Comprehension](https://arxiv.org/abs/1911.06137)
+
 [DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension](https://arxiv.org/abs/1902.00164)
 
 [Review Conversational Reading Comprehension](https://arxiv.org/abs/1902.00821)
