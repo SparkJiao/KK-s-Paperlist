@@ -211,6 +211,8 @@ Recommendations or contributions are all welcome!
 [Attention Is (not) All You Need for Commonsense Reasoning](https://arxiv.org/abs/1905.13497v1)
 
 ## Dialog System
+[Variational Hierarchical Dialog Autoencoder for Dialogue State Tracking Data Augmentation](https://arxiv.org/abs/2001.08604)
+
 [An Efficient Approach to Encoding Context for Spoken Language Understanding](https://arxiv.org/pdf/1807.00267.pdf)
 
 [The Second Conversational Intelligence Challenge (ConvAI2)](https://arxiv.org/pdf/1902.00098.pdf)
