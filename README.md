@@ -18,6 +18,7 @@ Recommendations or contributions are all welcome!
 - [Natural Language Generation](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-generation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
 - [Multi-Task Learning](https://github.com/SparkJiao/KK-s-Paperlist#multi-task-learning)
+- [Knowledge](https://github.com/SparkJiao/KK-s-Paperlist#knowledge)
 - [Transfer Learning](https://github.com/SparkJiao/KK-s-Paperlist#transfer-learning)
 - [Attention Mechanism](https://github.com/SparkJiao/KK-s-Paperlist#attention-mechanism)
 - [Reinforcement Learning](https://github.com/SparkJiao/KK-s-Paperlist#reinforcement-learning)
@@ -283,6 +284,10 @@ Recommendations or contributions are all welcome!
 [Interpretable machine learning: deﬁnitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
 
 [Frustratingly Poor Performance of Reading Comprehension Models on Non-adversarial Examples](https://arxiv.org/pdf/1904.02665v1.pdf)
+
+## Knowledge
+
+[Path-Based Contextualization of Knowledge Graphs for Textual Entailment](https://arxiv.org/abs/1911.02085v2)
 
 ## Multi-Task Learning
 [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf)
