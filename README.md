@@ -300,6 +300,8 @@ Recommendations or contributions are all welcome!
 
 ## Transfer Learning
 
+[K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters](https://arxiv.org/abs/2002.01808)
+
 [Aligning the Pretraining and Finetuning Objectives of Language Models](https://arxiv.org/abs/2002.02000)
 
 [MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models](https://arxiv.org/abs/1908.01816)
