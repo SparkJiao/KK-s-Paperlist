@@ -293,6 +293,8 @@ Recommendations or contributions are all welcome!
 
 [Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
 
+[Attention-Informed Mixed-Language Training for Zero-shot Cross-lingual Task-oriented Dialogue Systems](https://arxiv.org/abs/1911.09273)
+
 ## Knowledge
 
 [Path-Based Contextualization of Knowledge Graphs for Textual Entailment](https://arxiv.org/abs/1911.02085v2)
