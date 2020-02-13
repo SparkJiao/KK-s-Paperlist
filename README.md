@@ -17,6 +17,7 @@ Recommendations or contributions are all welcome!
 - [Machine Translation](https://github.com/SparkJiao/KK-s-Paperlist#machine-translation)
 - [Natural Language Generation](https://github.com/SparkJiao/KK-s-Paperlist#natural-language-generation)
 - [Interpretability of Machine Learning](https://github.com/SparkJiao/KK-s-Paperlist#interpretability-of-machine-learning)
+- [Low Resources Task](https://github.com/SparkJiao/KK-s-Paperlist#low-resources-task)
 - [Multi-Task Learning](https://github.com/SparkJiao/KK-s-Paperlist#multi-task-learning)
 - [Knowledge](https://github.com/SparkJiao/KK-s-Paperlist#knowledge)
 - [Transfer Learning](https://github.com/SparkJiao/KK-s-Paperlist#transfer-learning)
@@ -287,6 +288,10 @@ Recommendations or contributions are all welcome!
 [Interpretable machine learning: deﬁnitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
 
 [Frustratingly Poor Performance of Reading Comprehension Models on Non-adversarial Examples](https://arxiv.org/pdf/1904.02665v1.pdf)
+
+## Low Resources Task
+
+[Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
 
 ## Knowledge
 
