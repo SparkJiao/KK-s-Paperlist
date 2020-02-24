@@ -78,6 +78,8 @@ Recommendations or contributions are all welcome!
 
 ## Language Models
 
+[REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
+
 [Encoder-Agnostic Adaptation for Conditional Language Generation](https://arxiv.org/abs/1908.06938)
 
 [Conditional BERT Contextual Augmentation](https://arxiv.org/abs/1812.06705)
