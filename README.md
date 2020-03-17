@@ -124,6 +124,8 @@ Recommendations or contributions are all welcome!
 
 [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/forum?id=r1xMH1BtvB)
 
+[Masking Orchestration: Multi-task Pretraining for Multi-role Dialogue Representation Learning](https://arxiv.org/abs/2003.04994)
+
 ## Natural Language Inference
 [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://www.aaai.org/ojs/index.php/AAAI/article/view/4734/4612)
 
