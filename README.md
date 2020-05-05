@@ -72,6 +72,8 @@ Recommendations or contributions are all welcome!
 
 [Break It Down: A Question Understanding Benchmark](https://allenai.github.io/Break/)
 
+[SciREX: A Challenge Dataset for Document-Level Information Extraction](https://arxiv.org/abs/2005.00512)
+
 ## Toolkit
 
 [FALCON 2.0: An Entity and Relation Linking Tool over Wikidata](https://arxiv.org/abs/1912.11270v2)
