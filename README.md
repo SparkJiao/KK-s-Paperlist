@@ -137,6 +137,8 @@ Recommendations or contributions are all welcome!
 
 ## Machine Reading Comprehension
 
+[Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://arxiv.org/abs/2005.05806)
+
 [Retrospective Reader for Machine Reading Comprehension](https://arxiv.org/abs/2001.09694)
 
 [Unsupervised Domain Adaptation on Reading Comprehension](https://arxiv.org/abs/1911.06137)
