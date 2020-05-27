@@ -227,6 +227,8 @@ Recommendations or contributions are all welcome!
 
 ## Dialog System
 
+[Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenL.10030.pdf)
+
 [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2005.00891v1)
 
 [SOLOIST: Few-shot Task-Oriented Dialog with A Single Pre-trained Auto-regressive Model](https://arxiv.org/abs/2005.05298)
