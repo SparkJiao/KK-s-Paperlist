@@ -227,6 +227,8 @@ Recommendations or contributions are all welcome!
 
 ## Dialog System
 
+[Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2005.00891v1)
+
 [SOLOIST: Few-shot Task-Oriented Dialog with A Single Pre-trained Auto-regressive Model](https://arxiv.org/abs/2005.05298)
 
 [Variational Hierarchical Dialog Autoencoder for Dialogue State Tracking Data Augmentation](https://arxiv.org/abs/2001.08604)
