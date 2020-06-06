@@ -227,6 +227,8 @@ Recommendations or contributions are all welcome!
 
 ## Dialog System
 
+[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://arxiv.org/abs/2006.01554)
+
 [TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking](https://arxiv.org/abs/2005.02877)
 
 [Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenL.10030.pdf)
