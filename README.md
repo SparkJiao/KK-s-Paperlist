@@ -227,6 +227,8 @@ Recommendations or contributions are all welcome!
 
 ## Dialog System
 
+[Multimodal Dialog System: Generating Responses via Adaptive Decoders](https://liqiangnie.github.io/paper/fp349-nieAemb.pdf)
+
 [A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://arxiv.org/abs/2006.01554)
 
 [TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking](https://arxiv.org/abs/2005.02877)
