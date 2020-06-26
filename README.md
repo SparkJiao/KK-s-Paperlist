@@ -350,6 +350,8 @@ Recommendations or contributions are all welcome!
 [Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data](https://arxiv.org/abs/1903.06164)
 
 ## Graph Neural Network
+[GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://arxiv.org/abs/2006.09963)
+
 [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153)
 
 [Embedding Logical Queries on Knowledge Graphs](https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)
