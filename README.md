@@ -386,6 +386,10 @@ Recommendations or contributions are all welcome!
 
 [Multi-Task Self-Supervised Learning for Disfluency Detection](https://arxiv.org/abs/1908.05378)
 
+[Pretraining with Contrastive Sentence Objectives Improves DiscoursePerformance of Language Models](https://www.aclweb.org/anthology/2020.acl-main.439.pdf)
+
+
+
 ## Semi-Supervised Learning
 
 [Tri-Training: Exploiting Unlabeled Data Using Three Classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1512038)
