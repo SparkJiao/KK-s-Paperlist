@@ -483,6 +483,10 @@ Recommendations or contributions are all welcome!
 
 ## Some Interesting or Useful Blogs
 
+[ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/#2-retrieval-augmentation)
+
+[Recent Advances in Language Model Fine-tuning](https://ruder.io/recent-advances-lm-fine-tuning/)
+
 [技术分享丨ALBERT在CommonsenseQA方向的应用](https://mp.weixin.qq.com/s/FLPqcxPhfZKZ5piCkwVJdA)
 
 [🦄🤝🦄 Encoder-decoders in Transformers: a hybrid pre-trained architecture for seq2seq](https://medium.com/huggingface/encoder-decoders-in-transformers-a-hybrid-pre-trained-architecture-for-seq2seq-af4d7bf14bb8)
