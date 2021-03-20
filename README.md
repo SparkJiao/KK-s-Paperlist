@@ -483,6 +483,8 @@ Recommendations or contributions are all welcome!
 
 ## Some Interesting or Useful Blogs
 
+[Debugging RL, Without the Agonizing Pain](https://andyljones.com/posts/rl-debugging.html)
+
 [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/#2-retrieval-augmentation)
 
 [Recent Advances in Language Model Fine-tuning](https://ruder.io/recent-advances-lm-fine-tuning/)
